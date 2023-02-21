@@ -7,7 +7,7 @@ to the client, and in logs.
 
 # configure a new web application in Azure with OpenID and implicit flow (see
   the `provider documentation
-  <https://docs.microsoft.com/en-us/powerapps/maker/portals/configure/configure-openid-provider)>`_)
+  <https://docs.microsoft.com/en-us/powerapps/maker/portals/configure/configure-openid-provider>`_)
 # in this application the redirect url must be be "<url of your
   server>/auth_oauth/signin" and of course this URL should be reachable from
   Azure
